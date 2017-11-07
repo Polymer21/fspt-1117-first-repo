@@ -11,4 +11,6 @@ Hello My name is Tim Hoyt.
     Fukn ready to get this shit goin. 
     Let's see if I can save this shit. 
         Really not working. 
-        
+
+
+            got it to work. I'm stoked
